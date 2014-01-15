@@ -66,6 +66,13 @@
 * When: 26th April 2014
 * Where:  Porto de Galinhas, Brasil
 
+### RubyConf Uruguay
+* [Website](http://www.rubyconfuruguay.org/en)
+* [CFP](http://www.rubyconfuruguay.org/en/conference_editions/8/talks/new)
+* Deadline: 31st January 2014
+* When: last week of April 2014
+* Where: Montevideo, Uruguay
+
 # CFP Closed
 ## Europe
 ### wroc_love.rb
