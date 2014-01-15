@@ -1,13 +1,6 @@
 # CFP Open
 ## Europe
 
-### wroc_love.rb
-* [Website](http://wrocloverb.com/)
-* [CFP](http://cfp.wrocloverb.com/authentications)
-* Deadline: 12th January 2014
-* When: 14-16th March 2014
-* Where: Wrocław, Poland
-
 ### Bacon
 * [Website](http://devslovebacon.com/)
 * [CFP](http://devslovebacon.com/conferences/bacon-2014/submissions/new)
@@ -75,6 +68,13 @@
 
 # CFP Closed
 ## Europe
+### wroc_love.rb
+* [Website](http://wrocloverb.com/)
+* [CFP](http://cfp.wrocloverb.com/authentications)
+* Deadline: 12th January 2014
+* When: 14-16th March 2014
+* Where: Wrocław, Poland
+
 ### Eurucamp
 * [Website](http://2014.eurucamp.org/)
 
