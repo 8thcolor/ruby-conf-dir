@@ -8,13 +8,6 @@
 * When: 16-17th May 2014
 * Where: London, England
 
-### Kod.io
-* [Website](http://linz.kod.io/)
-* [CFP](https://docs.google.com/forms/d/1gTJnRrhRTsuzPTpsXvcwS5U-DfkXSQWaam9ici5i414/viewform)
-* Deadline: 15th January
-* When: 1st March
-* Where: Linz, Austria
-
 ### Euruko
 * [Website](http://www.euruko2014.org/)
 * [CFP](https://docs.google.com/forms/d/1ErQwvmneEEy2p4NZvFPkjl1d9vUPEBzJV_BaJfkG4bc/viewform) or [via PullRequest](https://github.com/euruko2014/call-for-papers)
@@ -75,6 +68,13 @@
 
 # CFP Closed
 ## Europe
+### Kod.io
+* [Website](http://linz.kod.io/)
+* [CFP](https://docs.google.com/forms/d/1gTJnRrhRTsuzPTpsXvcwS5U-DfkXSQWaam9ici5i414/viewform)
+* Deadline: 15th January
+* When: 1st March
+* Where: Linz, Austria
+
 ### wroc_love.rb
 * [Website](http://wrocloverb.com/)
 * [CFP](http://cfp.wrocloverb.com/authentications)
