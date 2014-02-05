@@ -1,13 +1,6 @@
 # CFP Open
 ## Europe
 
-### Bacon
-* [Website](http://devslovebacon.com/)
-* [CFP](http://devslovebacon.com/conferences/bacon-2014/submissions/new)
-* Deadline: 17th January 2014
-* When: 16-17th May 2014
-* Where: London, England
-
 ### Euruko
 * [Website](http://www.euruko2014.org/)
 * [CFP](https://docs.google.com/forms/d/1ErQwvmneEEy2p4NZvFPkjl1d9vUPEBzJV_BaJfkG4bc/viewform) or [via PullRequest](https://github.com/euruko2014/call-for-papers)
@@ -17,8 +10,8 @@
 
 ### Frozen Rails
 * [Website](http://2014.frozenrails.eu/)
-* CFP
-* Deadline: ?
+* [CFP](http://2014.frozenrails.eu/cfp/)
+* Deadline: 31st March 2014
 * When: 11-12th September 2014
 * Where: Helsinki, Finland
 
@@ -52,22 +45,16 @@
 * Where: Taipei City, Taiwan
 
 ## America
-### Abril Pro Ruby
-* [Website](http://abrilproruby.com/)
-* [CFP](http://cfp.abrilproruby.com/proposals/new)
-* Deadline: 31st January 2014
-* When: 26th April 2014
-* Where:  Porto de Galinhas, Brasil
-
-### RubyConf Uruguay
-* [Website](http://www.rubyconfuruguay.org/en)
-* [CFP](http://www.rubyconfuruguay.org/en/conference_editions/8/talks/new)
-* Deadline: 31st January 2014
-* When: last week of April 2014
-* Where: Montevideo, Uruguay
 
 # CFP Closed
 ## Europe
+### Bacon
+* [Website](http://devslovebacon.com/)
+* [CFP](http://devslovebacon.com/conferences/bacon-2014/submissions/new)
+* Deadline: 17th January 2014
+* When: 16-17th May 2014
+* Where: London, England
+
 ### Kod.io
 * [Website](http://linz.kod.io/)
 * [CFP](https://docs.google.com/forms/d/1gTJnRrhRTsuzPTpsXvcwS5U-DfkXSQWaam9ici5i414/viewform)
@@ -115,6 +102,20 @@
 * Deadline: 31 October 2013
 
 ## America
+### Abril Pro Ruby
+* [Website](http://abrilproruby.com/)
+* [CFP](http://cfp.abrilproruby.com/proposals/new)
+* Deadline: 31st January 2014
+* When: 26th April 2014
+* Where:  Porto de Galinhas, Brasil
+
+### RubyConf Uruguay
+* [Website](http://www.rubyconfuruguay.org/en)
+* [CFP](http://www.rubyconfuruguay.org/en/conference_editions/8/talks/new)
+* Deadline: 31st January 2014
+* When: last week of April 2014
+* Where: Montevideo, Uruguay
+
 ### Ancient City Ruby
 * [Website](http://www.ancientcityruby.com/)
 * [CFP](https://github.com/ancientcityruby/call_for_proposals_2014)
